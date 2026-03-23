@@ -1,5 +1,9 @@
 # 🤖 AI Text Detection using RoBERTa
 
+🚀 A machine learning project to classify text as human-written or AI-generated using NLP techniques.
+
+📊 Achieved 99.73% Accuracy
+
 ## 📌 Overview
 This project focuses on detecting whether a given text is **human-written or AI-generated** using the RoBERTa model.
 
